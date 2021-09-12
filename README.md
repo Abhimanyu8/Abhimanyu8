@@ -1,6 +1,8 @@
-👋 Hello There !
+![Hey ! I am Avimanyu](https://user-images.githubusercontent.com/54982599/132979276-ab6543b7-c68e-4a0e-b71b-939c6bf5ff81.png)
+
 
 <!---
+- 👋 Hello There !
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
