@@ -19,7 +19,7 @@
 ```javascript
 const avimanyu = {
   pronouns: "he" | "him",
-  code: [Python, Bash, HTML, lua, CSS, SQL, C ],
+  code: [Python, Bash, HTML, lua, CSS, SQL, C, Micro/Circuit python],
   tools: [Tensorflow, Metasploit, GTK, Jupyter, burp-suite , nmap ],
   architecture: ["miroservices","event-driven", "design system pattern", "behavior-driven-development",],
   techCommunities: {
