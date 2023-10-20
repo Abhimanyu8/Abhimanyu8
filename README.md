@@ -6,7 +6,7 @@
 ### Hi there 👋
 <h2> I'm Avimanyu Dutta <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Security Researcher at <a href="https://www.privatedivision.com/">Private Division</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Intern at <a href="https://aakel.co.jp/">AAKEL Technologies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: arashi_kiba](https://img.shields.io/twitter/follow/arashi_kiba?style=social)](https://twitter.com/arashi_kiba)
